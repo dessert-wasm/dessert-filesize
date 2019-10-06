@@ -1,4 +1,7 @@
 # Dessert Filesize
+
+[![NPM version](https://img.shields.io/npm/v/dessert-filesize.svg)](https://www.npmjs.org/package/dessert-filesize)
+
 Clone of [filesize.js] implemented in Rust for WebAssembly
 
 [filesize.js]: https://github.com/avoidwork/filesize.js
@@ -41,7 +44,6 @@ _*(boolean)*_ Enables full form of unit of measure, default is `false`
 _*(array)*_ Array of full form overrides, default is `[]`
 
 ### locale (overrides 'separator')
-_*(string || boolean)*_ BCP 47 language tag to specify a locale, or `true` to use default locale, default is `""`
 
 ### output
 _*(string)*_ Output of function (`array`, `exponent`, `object`, or `string`), default is `string`

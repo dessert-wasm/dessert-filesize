@@ -1,6 +1,6 @@
 {
   "name": "dessert-filesize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "filesize.js but with WebAssembly",
   "main": "filesize.js",
   "dependencies": {
