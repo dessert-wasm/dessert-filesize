@@ -1,0 +1,27 @@
+{
+  "name": "dessert-filesize",
+  "version": "1.0.0",
+  "description": "filesize.js but with WebAssembly",
+  "main": "filesize.js",
+  "dependencies": {
+    "dessert-filesize-core": "^0.2.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "wasm",
+    "filesize"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dessert-wasm/dessert-filesize.git"
+  },
+  "author": "Dessert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dessert-wasm/dessert-filesize/issues"
+  },
+  "homepage": "https://github.com/dessert-wasm/dessert-filesize#readme"
+}
