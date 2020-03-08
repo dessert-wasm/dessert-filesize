@@ -19,7 +19,7 @@
     "url": "git+https://github.com/dessert-wasm/dessert-filesize.git"
   },
   "author": "Dessert",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dessert-wasm/dessert-filesize/issues"
   },
