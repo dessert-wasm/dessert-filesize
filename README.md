@@ -13,7 +13,7 @@
 
 [filesize.js]: https://github.com/avoidwork/filesize.js
 
-## Summary
+## Table of contents
 * [Usage](#usage)
 * [API](#api)
 * [Installation](#installation)
