@@ -1,3 +1,5 @@
+[![](https://user-images.githubusercontent.com/25987204/78205790-10b0c680-74d8-11ea-9767-5bb93e920044.png)](https://dessert.dev/)
+
 # Dessert Filesize
 
 [![npm-badge]][npm-url]
